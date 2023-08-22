@@ -9,16 +9,16 @@ Wykorzystane Modele
 
 W projekcie wykorzystano trzy różne modele regresji do przewidywania cen akcji:
 
+    Model Baseline - wyznacza cene jutrzejszą zamknięcia na podstawie dzisiejszej ceny.
+
     Linear Regression (Regresja Liniowa): Model liniowej regresji wykorzystuje liniową zależność między cechami a cenami akcji do przewidzenia przyszłych cen.
 
     RNN LSTM (Recurrent Neural Network Long Short-Term Memory): Model ten wykorzystuje sieć neuronową typu RNN z komórkami LSTM, co pozwala uwzględnić zależności czasowe w danych i lepiej modelować szereg czasowy.
 
-    Random Forest Regressor: Model oparty na losowym lesie, który tworzy wiele drzew regresji i łączy ich przewidywania w celu uzyskania bardziej stabilnych i precyzyjnych prognoz.
 
 Struktura Projektu
 
     notebooks/ zawiera notatniki Jupyter z kodem analizy danych i modelowania.
-    results/ to folder, gdzie przechowywane są wyniki analiz i modelowania.
     README.md to plik, który zawiera opis projektu.
 
 Jak Używać Projektu
