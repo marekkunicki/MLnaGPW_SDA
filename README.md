@@ -39,4 +39,4 @@ Wymagania
 
 Autor
 
-Projekt został stworzony przez [Twoje Imię/Nazwisko].
+Projekt został stworzony przez [Marek Kunicki].
